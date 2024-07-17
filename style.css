@@ -46,6 +46,10 @@
     margin: 20px 0px;
 }
 
+.info a {
+    color: #fff;
+}
+
 .info .btn {
     display: inline-flex;
     justify-content: center;
